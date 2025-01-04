@@ -55,9 +55,9 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, CSS, Litmus</strong></p>
           <p>
-						Description goes here
+						Tranactional Email
 					</p>
 				</div>
 			</td>
@@ -77,8 +77,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>HTML, CSS, Litmus</strong></p>
+					<p>Newsletter Email</p>
 				</div>
         </tr>
 	    <tr>
@@ -98,8 +98,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, Litmus</strong></p>
+		    <p>Landing Page</p>
                 </div>
             </td>
             <td width="50%">
@@ -118,8 +118,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, Litmus</strong></p>
+		    <p>Promotional Email</p>
                 </div>	
             </td>
         </tr>
