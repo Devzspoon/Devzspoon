@@ -65,7 +65,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/Devzspoon/Devzspoon/blob/main/assets/cs.pn?raw=true" alt="project 2" width="100%" />
+						<img src="https://github.com/Devzspoon/Devzspoon/blob/main/assets/cs.png?raw=true" alt="project 2" width="100%" />
 					</a>
 					<br>
 					<br>
