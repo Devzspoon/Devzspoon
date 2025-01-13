@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Zaundra Witherspoon</h1>
 <h3 align="center">A Content Editor and Email Developer</h3>
-<h4 align="center">Hi my name is Zaundra Witherspoon a Content Editor and Email developer based out of Chicago.  </h4>
+<h4 align="center">Hi my name is Zaundra Witherspoon an Email Developer and Content Editor based out of Chicago.  </h4>
 
 <hr>
 
